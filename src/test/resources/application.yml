@@ -1,0 +1,5 @@
+tt:
+    http:
+        auth-token:
+            header: 'test_token'
+            value: '12344'

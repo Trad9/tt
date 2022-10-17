@@ -1,0 +1,5 @@
+tt:
+    http:
+        auth-token:
+            header: 'tt_token'
+            value: '12345'
