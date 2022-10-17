@@ -19,4 +19,5 @@ and the second one (RtpIntegrationTest) is of integration test level using WebTe
 STP is provided as just console output. Tests can be launched separately as:
 
 gradle clean test --tests com.yolo.testtask.domain.service.RtpServiceTest.rtpTest
+
 gradle clean test --tests com.yolo.testtask.rest.RtpIntegrationTest.rtpTest 
